@@ -86,7 +86,7 @@ Instead of defining what "bad" traffic looks like, the ML model randomly partiti
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/skgpt254/PacketDive.git](https://github.com/skgpt254/PacketDive.git)
+git clone https://github.com/skgpt254/PacketDive.git
 cd PacketDive
 
 ```
